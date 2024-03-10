@@ -1,2 +1,2 @@
 # Generative-Deep-Learning
-This is where I study Generative Deep Learning(O'Reilly) book. 
+This is where I study O'Reilly Generative Deep Learning book. 
